@@ -22,6 +22,7 @@ namespace SistemaBancario
 
         private void button1_Click(object sender, EventArgs e)
         {
+            //PRUEBA DEL LOGIN
             MySqlConnection cone = con.obtenerConexion();
             if (cone != null)
             {
