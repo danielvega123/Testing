@@ -10,3 +10,6 @@ c:\users\gerda\onedrive\documentos\visual studio 2015\Projects\SistemaBancario\S
 c:\users\gerda\onedrive\documentos\visual studio 2015\Projects\SistemaBancario\SistemaBancario\bin\Debug\MySql.Data.xml
 c:\users\gerda\onedrive\documentos\visual studio 2015\Projects\SistemaBancario\SistemaBancario\obj\Debug\SistemaBancario.exe
 c:\users\gerda\onedrive\documentos\visual studio 2015\Projects\SistemaBancario\SistemaBancario\obj\Debug\SistemaBancario.pdb
+C:\Users\gerda\OneDrive\Documentos\Visual Studio 2015\Projects\Proyect1\Testing\SistemaBancario\SistemaBancario\bin\Debug\SistemaBancario.exe.config
+C:\Users\gerda\OneDrive\Documentos\Visual Studio 2015\Projects\Proyect1\Testing\SistemaBancario\SistemaBancario\obj\Debug\SistemaBancario.exe
+C:\Users\gerda\OneDrive\Documentos\Visual Studio 2015\Projects\Proyect1\Testing\SistemaBancario\SistemaBancario\obj\Debug\SistemaBancario.pdb
